@@ -7,5 +7,6 @@
 + SoftDevice : s140 v7.2.0
 + IDE : SEGGER Embedded Studio for ARM V5.42b(64-bit)
 
-## 章节索引
+## 章节
 
+[第1章 开发环境搭建](./chapters/ch01_environment_setup/README.md)
