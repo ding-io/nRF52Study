@@ -9,7 +9,7 @@
 
 ## 章节
 
-[第1章 开发环境搭建](./doc/ch01_environment_setup/README.md)
+[第1章 开发环境搭建](./app/ch01_environment_setup/README.md)
 
-[第2章 新建工程](./doc/ch02_ses_create_new_project/README.md)
+[第2章 新建工程](./app/ch02_ses_create_new_project/README.md)
 
